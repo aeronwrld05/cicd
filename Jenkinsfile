@@ -3,7 +3,7 @@ pipeline {
     environment {
         GIT_REPO_URL = 'https://github.com/aeronwrld05/cicd.git'
 '
-        GIT_CREDENTIALS_ID = 'github-pat'
+        GIT_CREDENTIALS_ID = '2005'
         GIT_BRANCH = 'main'
     }
     stages {
